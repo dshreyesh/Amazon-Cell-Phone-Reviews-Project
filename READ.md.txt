@@ -1,0 +1,5 @@
+There are two python notebooks, basic_data_processing and text_cleaning_and_modelling. 
+
+The '[Rahul Sharma]-[Shreyesh Doppalapudi]-[Shivang Suchak]-Basic-Exploration.ipynb' comprises of initial data description and some data exploration. '[Rahul Sharma]-[Shreyesh Doppalapudi]-[Shivang Suchak]-Preprocessing-Modelling-Script.ipynb' notebook contains the text preprocessing and modelling. The first notebook is imported in the second notebook, so to view the results, you can just run '[Rahul Sharma]-[Shreyesh Doppalapudi]-[Shivang Suchak]-Preprocessing-Modelling-Script.ipynb' notebook provided both the notebooks presents at same path.
+
+For any issues and clarification, please feel free to reach out to us on rks5737@psu.edu
